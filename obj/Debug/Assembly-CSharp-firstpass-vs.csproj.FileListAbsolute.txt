@@ -1,0 +1,13 @@
+D:\Users\Jóhann Østerø_2\Google Drive\Homework\Games Middleware\ICA\ICA 2. Pirates vs Zombies\The Pirate Game\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\Users\Jóhann Østerø_2\Google Drive\Homework\Games Middleware\ICA\ICA 2. Pirates vs Zombies\The Pirate Game\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\Users\Jóhann Østerø_2\Google Drive\Homework\Games Middleware\ICA\ICA 2. Pirates vs Zombies\The Pirate Game\Temp\bin\Debug\UnityEditor.dll
+D:\Users\Jóhann Østerø_2\Google Drive\Homework\Games Middleware\ICA\ICA 2. Pirates vs Zombies\The Pirate Game\Temp\bin\Debug\UnityEngine.dll
+D:\Users\Jóhann Østerø_2\Google Drive\Homework\Games Middleware\ICA\ICA 2. Pirates vs Zombies\The Pirate Game\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Users\Jóhann Østerø_2\Google Drive\Homework\Games Middleware\ICA\ICA 2. Pirates vs Zombies\The Pirate Game\Temp\bin\Debug\Mono.Cecil.dll
+D:\Users\Jóhann Østerø_2\Google Drive\Homework\Games Middleware\ICA\ICA 2. Pirates vs Zombies\The Pirate Game\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Users\Jóhann Østerø_2\Google Drive\Homework\Games Middleware\ICA\ICA 2. Pirates vs Zombies\The Pirate Game\Temp\bin\Debug\Unity.DataContract.dll
+D:\Users\Jóhann Østerø_2\Google Drive\Homework\Games Middleware\ICA\ICA 2. Pirates vs Zombies\The Pirate Game\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Users\Jóhann Østerø_2\Google Drive\Homework\Games Middleware\ICA\ICA 2. Pirates vs Zombies\The Pirate Game\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Users\Jóhann Østerø_2\Google Drive\Homework\Games Middleware\ICA\ICA 2. Pirates vs Zombies\The Pirate Game\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+D:\Users\Jóhann Østerø_2\Google Drive\Homework\Games Middleware\ICA\ICA 2. Pirates vs Zombies\The Pirate Game\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\Users\Jóhann Østerø_2\Google Drive\Homework\Games Middleware\ICA\ICA 2. Pirates vs Zombies\The Pirate Game\obj\Debug\Assembly-CSharp-firstpass.pdb
